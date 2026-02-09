@@ -153,7 +153,8 @@ ORDER BY Churn_Rate_Pct DESC;
 
 The analyzed SQL data was integrated with Power BI to enable interactive dashboards and stakeholder-level reporting.
 
-<img width="947" height="545" alt="Screenshot 2026-02-09 191030" src="https://github.com/user-attachments/assets/28c34e45-86f8-4336-b308-29801ec5b53e" />
+<img width="1301" height="730" alt="Screenshot 2026-02-09 200547" src="https://github.com/user-attachments/assets/021de7bb-3721-420c-b4f0-85c752a40054" />
+
 
 # Tools & Technologies Used
 
